@@ -1,0 +1,18 @@
+{
+  "name": "sss45-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "เข้าlottovip✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"เข้าlottovip",
+"เว็บหวยออนไลน์",
+"lottovip",
+"ออนไลหวย",
+"lottovip ราคาจ่าย"
+],
+  "repository": "https://github.com/setteebet/sss45-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
